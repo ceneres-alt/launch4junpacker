@@ -5,7 +5,7 @@ int wmain(int argc, wchar_t *argv[ ])
 {
 	if (argc < 3)
 	{
-		printf("Usage: launch4j-extractor.exe [FilePath] [OutputPath]\nMade with <3 by oct0ling");
+		printf("Usage: launch4j-extractor.exe [FilePath] [OutputPath]\nMade with <3 by cenereh");
 		return 0;
 	}
 
